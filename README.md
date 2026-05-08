@@ -1,4 +1,4 @@
-# classical-ml-algorithms
+# Classical ML Algorithms
 
 13 notebooks covering classical supervised and unsupervised machine learning with real-world datasets.
 
